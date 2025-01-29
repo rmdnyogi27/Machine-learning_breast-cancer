@@ -1,6 +1,6 @@
-# Breast Cancer clasification
+# Breast Cancer Wisconsin classification
 
-##  Breast Cancer clasification USING DECISION TREE
+##  Breast Cancer Winsconsin clasification using decision tree
 in this project I use Wisconsin Diagnostic Breast Cancer (WDBC) Classification Dataset from skicit-learn, this project is to diagnose the type of malignant breast tumor 0 (dangerous) or benign 1 (not dangerous) using the Decision Tree model. there are The number of samples in this dataset is 569 and 31 columns.
 
 ## Project Overview :
